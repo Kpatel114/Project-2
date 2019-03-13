@@ -1,0 +1,66 @@
+body {
+	 background-image: url("images/forest.jpg");
+
+     background-size: cover;
+
+	 backgroun-repeat: no-repeat;
+
+	 background-position: center;
+}
+ h1{
+
+     font-style: normal;
+
+     font-family:"Lucida Grande", sans-serif;
+
+     color: white;
+
+	 font-size: 50px;
+	 
+	 text-align: center;
+}
+h2{
+	 font-size: 35px;
+
+     font-family: "Times New Roman", Times;
+
+	 text-align: center;
+	 
+	 color: white;
+}
+ h3{
+     font-family:"Arial" , sans-serif;
+
+	 font-size: 40px;
+	 
+	 color: white;
+	 
+	 text-align: center;
+}
+ p{
+     font-size: 25px;
+
+     font-family: "Times New Roman", Times;
+
+	 text-align: center;
+	 
+	 color: white;
+}
+ ul{
+
+     font-family: "Lucida", sans-serif;
+
+     text-align: left;
+
+     list-style-type: circle;
+
+     list-style-position:inside;
+	 
+	 color: white;
+}
+.center{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%
+}
